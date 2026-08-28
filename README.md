@@ -3,3 +3,5 @@
 cute baby division duo drawing by me
 
 i forgot how to get images to work for a minute
+
+![](https://komarev.com/ghpvc/?username=divisionduo&color=green&style=flat-square&label=division&abbreviated=true)
